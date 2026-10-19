@@ -1,0 +1,50 @@
+{
+  "same_assistant_separate_directory": true,
+  "outputs_byte_identical": 11,
+  "files_compared": [
+    {
+      "file": "entry_elasticity_crossing.csv",
+      "sha256": "25914e152f11efbfe84eaa005d04b114d0a23463f018cc8ea4bd6c13700381b2"
+    },
+    {
+      "file": "entry_integrals.csv",
+      "sha256": "fabb10d567ed225560ef2e4c141676d55387388d050759cb66321e62cd3b992d"
+    },
+    {
+      "file": "funding_benefit_comparative_static.csv",
+      "sha256": "f2728b49dc654c781d6a4a37f78cc8c32e9b2089036a93efdfcf404a6477735a"
+    },
+    {
+      "file": "independent_allocation_checks.csv",
+      "sha256": "3d302bcd6a1387161ef30d87890ee6e5b7d28e0796ab57486543157f5ce39d85"
+    },
+    {
+      "file": "main_table.csv",
+      "sha256": "d0b28a75d2a98dec4584e1d2c4d1f7cf449bfcecb304467dcca60d03afc949bf"
+    },
+    {
+      "file": "nonmonotone_rule_checks.csv",
+      "sha256": "0aa7b0076c5a40ad020a1fbecc9a5efcda6afcc0595d222ef8f99888b1aabfe9"
+    },
+    {
+      "file": "original_policy_optimization.csv",
+      "sha256": "97cc44782f6604d8f28cd35e7b03a4a1a627d1c103f5103017921b18b1fb1105"
+    },
+    {
+      "file": "policy_curve.csv",
+      "sha256": "489595738009eb87d47b390d11f23d3702111ce6b2d65da3ed9e73f3073981b6"
+    },
+    {
+      "file": "policy_reversal.png",
+      "sha256": "618d4960494aeac5b5c95cb5dd2e54cc36a3cd1de76a86c713a62c9e780a26f5"
+    },
+    {
+      "file": "precision_spillover.csv",
+      "sha256": "b3432216bf46b5772ee83b91c4d10a0961444b6a4ec680b1a1dffacf4c9c99c2"
+    },
+    {
+      "file": "validation.json",
+      "sha256": "40b3ac850d7f47c8bb6dd4e210a45cf1dd7774ab83bb3ed1fa2aac21f6436175"
+    }
+  ]
+}

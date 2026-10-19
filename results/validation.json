@@ -1,0 +1,52 @@
+{
+  "synthetic": true,
+  "seed": 20261017,
+  "crossing": {
+    "e_star": 1.0986122886681098,
+    "k_star": 0.24800564528543081,
+    "K_star": 0.12400282264271541
+  },
+  "independent_allocation_cases": 30,
+  "max_allocation_error": 2.581268532253489e-14,
+  "direct_original_optimizations": [
+    {
+      "k": 0.05,
+      "analytic_value": 0.24161758609724857,
+      "direct_value": 0.24161758609716538,
+      "error": 8.318346012003985e-14,
+      "e1_direct": 3.2345745551714007,
+      "e2_direct": 7.506484413108326
+    },
+    {
+      "k": 0.2,
+      "analytic_value": 0.7790363630721691,
+      "direct_value": 0.7790363630686158,
+      "error": 3.5532687903128135e-12,
+      "e1_direct": 1.2165519110779925,
+      "e2_direct": 1.4524432664028382
+    },
+    {
+      "k": 0.6,
+      "analytic_value": 1.6375908976663283,
+      "direct_value": 1.637590897654174,
+      "error": 1.2154277584386364e-11,
+      "e1_direct": 0.785229888299865,
+      "e2_direct": 0.15848817596573284
+    }
+  ],
+  "entry_integrals": 4,
+  "pilot_values": {
+    "good": 10.0,
+    "bad": -1.0,
+    "cash_reservation_per_start": 2.0
+  },
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8",
+  "nonmonotone_rule_checks": 200,
+  "minimum_ROC_slack": 0.016431090517897068,
+  "elasticity_invariance_checks": 3,
+  "rent_derivative_checks": 4,
+  "max_rent_derivative_error": 3.304206908083529e-11
+}
